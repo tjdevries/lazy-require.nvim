@@ -10,7 +10,7 @@
 --- feel free to submit some issues. Metatables can do many fun things).
 ---
 --- Source:
---- - https://github.com/tjdevries/lazy/nvim
+--- - https://github.com/tjdevries/lazy.nvim
 ---
 --- Support:
 --- - https://github.com/sponsors/tjdevries
