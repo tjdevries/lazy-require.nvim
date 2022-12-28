@@ -1,4 +1,4 @@
----@tag lazy
+---@tag lazy-require
 
 ---@brief [[
 --- Lazy.nvim is a set of helper functions to make requiring modules easier.
@@ -10,7 +10,7 @@
 --- feel free to submit some issues. Metatables can do many fun things).
 ---
 --- Source:
---- - https://github.com/tjdevries/lazy.nvim
+--- - https://github.com/tjdevries/lazy-require.nvim
 ---
 --- Support:
 --- - https://github.com/sponsors/tjdevries

@@ -5,10 +5,10 @@ local docs = {}
 docs.test = function()
   -- TODO: Fix the other files so that we can add them here.
   local input_files = {
-    "./lua/lazy.lua",
+    "./lua/lazy-require.lua",
   }
 
-  local output_file = "./doc/lazy.txt"
+  local output_file = "./doc/lazy-require.txt"
   local output_file_handle = io.open(output_file, "w")
 
   for _, input_file in ipairs(input_files) do

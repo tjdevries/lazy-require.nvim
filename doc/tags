@@ -1,0 +1,4 @@
+lazy	lazy.txt	/*lazy*
+lazy.require_on_exported_call()	lazy.txt	/*lazy.require_on_exported_call()*
+lazy.require_on_index()	lazy.txt	/*lazy.require_on_index()*
+lazy.require_on_module_call()	lazy.txt	/*lazy.require_on_module_call()*
